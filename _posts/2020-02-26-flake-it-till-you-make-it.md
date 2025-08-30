@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Teds Flake it till you make it
+date: 2020-02-26
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
